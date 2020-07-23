@@ -1,0 +1,34 @@
+{
+  "array": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "title": "test title",
+      "body": "test body ",
+      "author": "Max",
+      "id": 7
+    },
+    {
+      "title": "test2",
+      "body": "this is test2 body\n",
+      "author": "Raghav",
+      "id": 9
+    },
+    {
+      "title": "Redirected",
+      "body": "wqdqdw",
+      "author": "Raghav",
+      "id": 10
+    },
+    {
+      "title": "lets try this ",
+      "body": "djhbsjdbskdjn",
+      "author": "Raghav",
+      "id": 11
+    }
+  ]
+}
